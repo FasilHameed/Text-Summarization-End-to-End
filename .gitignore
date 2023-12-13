@@ -121,7 +121,8 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.textsummarization
+.textsummarization/
 env/
 venv/
 ENV/
